@@ -1,2 +1,1 @@
-# PrepCourse
-Este es un repositorio de prueba del modulo 2
+este proyecto es una preba sobre como crear un repositorio y clonarlo desde github a mi computadora
